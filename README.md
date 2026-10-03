@@ -12,8 +12,6 @@ Designed and shipped a receipt traceability service that follows every expense r
 **PM Mockr**, Tech Intern &nbsp;`Current`
 Improving the conversational and voice agents that run live mock interviews.
 
-**Silverleaf Capital**, HFT Developer Intern &nbsp;`Dec 2025 to Jan 2026`
-Built a cross-exchange backtesting framework with research-to-live parity, and researched the MCX and NYMEX natural gas spread as a lead-lag signal.
 
 **uExcelerate**, Software Engineering Intern &nbsp;`Jan to Apr 2025`
 Built the course recommendation engine for a learning platform; learners engaged with recommendations 28% more often.
