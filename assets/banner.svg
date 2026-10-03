@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+<rect width="1200" height="300" rx="24" fill="#0b0c0e"/><defs><pattern id="d" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r="0.9" fill="rgba(255,255,255,0.09)"/></pattern></defs><rect width="1200" height="300" rx="24" fill="url(#d)"/>
+<rect x="1" y="1" width="1198" height="298" rx="23" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+<text x="64" y="132" fill="#ededee" font-family="IBM Plex Sans, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" font-size="68" letter-spacing="-2">Sanyam Agrawal</text>
+<text x="66" y="192" fill="#ededee" font-family="IBM Plex Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="30">&gt; software, quant and ML engineering<tspan fill="#ededee"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>_</tspan></text>
+<text x="66" y="244" fill="#7c8089" font-family="IBM Plex Mono, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">IIIT Hyderabad, class of 2027</text>
+</svg>
